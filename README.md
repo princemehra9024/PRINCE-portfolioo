@@ -1,6 +1,6 @@
 # 🛰️ Prince Mehra | Award-Winning Portfolio
 
-![Portfolio Banner](file:///C:/Users/princ/.gemini/antigravity/brain/4b1d7cb7-bc73-4f00-a559-8ce8ad0c28f6/media__1771097967281.png)
+![Portfolio Banner](public/docs/banner.png)
 
 A high-end, immersive digital experience built with a focus on cinematic motion, interactive 3D elements, and premium typography.
 
@@ -23,8 +23,8 @@ A high-end, immersive digital experience built with a focus on cinematic motion,
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="file:///C:/Users/princ/.gemini/antigravity/brain/4b1d7cb7-bc73-4f00-a559-8ce8ad0c28f6/media__1771098336866.png" width="400" />
-  <img src="file:///C:/Users/princ/.gemini/antigravity/brain/4b1d7cb7-bc73-4f00-a559-8ce8ad0c28f6/media__1771098313459.png" width="400" />
+  <img src="public/docs/screenshot1.png" width="400" />
+  <img src="public/docs/screenshot2.png" width="400" />
 </p>
 
 ## 🚀 Getting Started
