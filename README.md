@@ -23,8 +23,12 @@ A high-end, immersive digital experience built with a focus on cinematic motion,
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="public/docs/screenshot1.png" width="400" />
-  <img src="public/docs/screenshot2.png" width="400" />
+  <img src="public/docs/hero.png" width="400" />
+  <img src="public/docs/about.png" width="400" />
+</p>
+<p align="center">
+  <img src="public/docs/projects.png" width="400" />
+  <img src="public/docs/contact.png" width="400" />
 </p>
 
 ## 🚀 Getting Started
